@@ -1,0 +1,14 @@
+{
+  "name": "fakeapi-1",
+  "version": "1.0.0",
+  "description": "Fake API intern project",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Arjun Porwal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
