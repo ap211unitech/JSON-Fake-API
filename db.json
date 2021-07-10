@@ -1,84 +1,76 @@
 {
   "data": [
     {
-      "coordinates": [
-        "A",
-        "B"
+      "location": [
+        "Uttar Pradesh",
+        "Kanpur"
       ],
       "id": "1",
-      "weight": 20
+      "weight": 20,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "A",
-        "B"
+      "location": [
+        "Uttar Pradesh",
+        "Lucknow"
       ],
       "id": "2",
-      "weight": 10
+      "weight": 10,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "A",
-        "B"
+      "location": [
+        "Uttar Pradesh",
+        "Etawah"
       ],
       "id": "3",
-      "weight": 13
+      "weight": 13,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "C",
-        "D"
+      "location": [
+        "Rajasthan",
+        "Jaipur"
       ],
       "id": "4",
-      "weight": 100
+      "weight": 100,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "C",
-        "D"
+      "location": [
+        "Rajasthan",
+        "Jodhpur"
       ],
       "id": "5",
-      "weight": 110
+      "weight": 110,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "E",
-        "F"
+      "location": [
+        "West Bengal",
+        "Kolkata"
       ],
       "id": "6",
-      "weight": 200
+      "weight": 200,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "G",
-        "H"
+      "location": [
+        "Punjab",
+        "Chandigarh"
       ],
       "id": "7",
-      "weight": 55
+      "weight": 55,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
     },
     {
-      "coordinates": [
-        "G",
-        "H"
+      "location": [
+        "Maharashtra",
+        "Mumbai"
       ],
       "id": "8",
-      "weight": 60
-    },
-    {
-      "coordinates": [
-        "I",
-        "J"
-      ],
-      "id": "9",
-      "weight": 215
-    },
-    {
-      "coordinates": [
-        "X",
-        "Y"
-      ],
-      "id": "10",
-      "weight": 170
-    },
+      "weight": 60,
+      "time_of_reading": "2021-07-06 03:23:53 UTC"
+    }
   ]
 }
